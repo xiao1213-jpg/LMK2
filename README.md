@@ -1,6 +1,6 @@
 # リトル・ミュー診断｜GitHub Pages公開版
 
-公開予定URL：[https://xiao1213-jpg.github.io/LMK2/](https://xiao1213-jpg.github.io/LMK2/)
+公開URL（Pages有効化後）：[https://xiao1213-jpg.github.io/LMK2/](https://xiao1213-jpg.github.io/LMK2/)
 
 ## このフォルダに入っているもの
 
@@ -10,27 +10,13 @@
 - `privacy.html`：アクセス解析についての説明
 - `.nojekyll`：GitHub Pages用設定
 
-## 1．新しいリポジトリを作る
+## 1．現在の状態
 
-既存の `LMK1` はHollis Pigeonholesが使用中なので、上書きしないでください。
+- 公開リポジトリ `xiao1213-jpg/LMK2` は作成済みです。
+- 診断本体・画像・共有ページなど37ファイルはアップロード済みです。
+- 既存の `LMK1` には変更を加えていません。
 
-1. GitHub右上の `＋` → `New repository`
-2. Repository nameを **`LMK2`** にする
-3. `Public`を選ぶ
-4. README等を追加せず、`Create repository`
-
-リポジトリ名を変えると、共有ページに設定済みのURLも変える必要があります。
-
-## 2．ファイルをアップロードする
-
-1. このZIPをパソコン上で展開する
-2. GitHubの新しいリポジトリで `uploading an existing file` を押す
-3. **展開したフォルダの中身**をすべてドラッグする
-4. `Commit changes`
-
-ZIPそのものをアップロードしてもサイトにはなりません。`index.html` がリポジトリ直下に見える状態にします。
-
-## 3．GitHub Pagesを有効にする
+## 2．GitHub Pagesを有効にする（残り1回の操作）
 
 1. リポジトリの `Settings`
 2. 左側の `Pages`
@@ -42,7 +28,7 @@ ZIPそのものをアップロードしてもサイトにはなりません。`i
 
 `https://xiao1213-jpg.github.io/LMK2/`
 
-## 4．Google Analyticsで回答数を確認する
+## 3．Google Analyticsで回答数を確認する
 
 Google AnalyticsでWebデータストリームを作り、`G-`から始まる測定IDを取得します。
 
